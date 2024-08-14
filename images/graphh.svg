@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364.854" height="144.986" viewBox="0 0 364.854 144.986">
+  <g id="Group_7673" data-name="Group 7673" transform="translate(-520.574 -3160.014)">
+    <text id="Strategy_performance_back_tested_" data-name="Strategy performance
+(back tested)" transform="translate(670 3172.014)" fill="#4b4b4b" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-63" y="0">Strategy performance</tspan><tspan x="-38" y="16">(back tested)</tspan></text>
+    <text id="Nifty_500_TRI" data-name="Nifty 500 TRI" transform="translate(810 3179.514)" fill="#4b4b4b" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38" y="0">Nifty 500 TRI</tspan></text>
+    <g id="Component_126_41" data-name="Component 126 – 41" transform="translate(520.574 3198)">
+      <path id="Path_26288" data-name="Path 26288" d="M285.735,61.775H624.588a13,13,0,1,1,0,26H285.735a13,13,0,1,1,0-26" transform="translate(-272.734 -61.775)" fill="#95c12b" fill-rule="evenodd" opacity="0.25"/>
+      <text id="_-1_" data-name="-1%" transform="translate(303.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-22" y="0">-1%</tspan></text>
+      <text id="_4_" data-name="4%" transform="translate(160.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-18" y="0">4%</tspan></text>
+      <path id="Path_26292" data-name="Path 26292" d="M267.41,61.775h34.547a13,13,0,0,1,0,26H267.41a13,13,0,0,1,0-26" transform="translate(-254.256 -61.775)" fill="#95c12b" fill-rule="evenodd"/>
+      <text id="Min" transform="translate(30.426 18)" fill="#fefefe" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-11" y="0">Min</tspan></text>
+    </g>
+    <g id="Component_126_42" data-name="Component 126 – 42" transform="translate(520.574 3225)">
+      <path id="Path_26288-2" data-name="Path 26288" d="M285.735,61.775H624.588a13,13,0,1,1,0,26H285.735a13,13,0,1,1,0-26" transform="translate(-272.734 -61.775)" fill="#95c12b" fill-rule="evenodd" opacity="0.25"/>
+      <text id="_21_" data-name="21%" transform="translate(303.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-26" y="0">21%</tspan></text>
+      <text id="_30_" data-name="30%" transform="translate(160.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-26" y="0">30%</tspan></text>
+      <path id="Path_26292-2" data-name="Path 26292" d="M267.41,61.775h34.547a13,13,0,0,1,0,26H267.41a13,13,0,0,1,0-26" transform="translate(-254.256 -61.775)" fill="#95c12b" fill-rule="evenodd"/>
+      <text id="Max" transform="translate(30.426 18)" fill="#fefefe" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-12" y="0">Max</tspan></text>
+    </g>
+    <g id="Component_126_43" data-name="Component 126 – 43" transform="translate(520.574 3252)">
+      <path id="Path_26288-3" data-name="Path 26288" d="M285.735,61.775H624.588a13,13,0,1,1,0,26H285.735a13,13,0,1,1,0-26" transform="translate(-272.734 -61.775)" fill="#95c12b" fill-rule="evenodd" opacity="0.25"/>
+      <text id="_14_" data-name="14%" transform="translate(303.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-26" y="0">14%</tspan></text>
+      <text id="_19_" data-name="19%" transform="translate(160.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-26" y="0">19%</tspan></text>
+      <path id="Path_26292-3" data-name="Path 26292" d="M267.41,61.775h34.547a13,13,0,0,1,0,26H267.41a13,13,0,0,1,0-26" transform="translate(-254.256 -61.775)" fill="#95c12b" fill-rule="evenodd"/>
+      <text id="Avg" transform="translate(30.426 18)" fill="#fefefe" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-11" y="0">Avg</tspan></text>
+    </g>
+    <g id="Component_126_44" data-name="Component 126 – 44" transform="translate(520.574 3279)">
+      <path id="Path_26288-4" data-name="Path 26288" d="M285.735,61.775H624.588a13,13,0,1,1,0,26H285.735a13,13,0,1,1,0-26" transform="translate(-272.734 -61.775)" fill="#95c12b" fill-rule="evenodd" opacity="0.25"/>
+      <text id="_16.4_" data-name="16.4%" transform="translate(303.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-38" y="0">16.4%</tspan></text>
+      <text id="_15.7_" data-name="15.7%" transform="translate(160.426 19)" fill="#4b4b4b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-38" y="0">15.7%</tspan></text>
+      <path id="Path_26292-4" data-name="Path 26292" d="M267.41,61.775h34.547a13,13,0,0,1,0,26H267.41a13,13,0,0,1,0-26" transform="translate(-254.256 -61.775)" fill="#95c12b" fill-rule="evenodd"/>
+      <text id="SD" transform="translate(30.426 18)" fill="#fefefe" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-8" y="0">SD</tspan></text>
+    </g>
+  </g>
+</svg>
